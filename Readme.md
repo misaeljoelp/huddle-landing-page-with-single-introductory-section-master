@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/misaeljoelp/huddle-landing-page-with-single-introductory-section-master)
-- Live Site URL: [Add live site URL here](https://misaeljoelp.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- Live Site URL: [Github pages](https://misaeljoelp.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
