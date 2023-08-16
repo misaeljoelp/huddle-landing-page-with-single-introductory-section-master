@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap');
 
-/*font-family: 'Open Sans', sans-serif;
-font-family: 'Poppins', sans-serif;*/
 :root{
     --violet: hsl(257, 40%, 49%);
     --softMagenta: hsl(300, 69%, 71%);
@@ -101,6 +99,8 @@ h1{
 .attribution a { 
     color: white;
  }
+
+/************MEDIA QUERIES*************/
 
  @media only screen and (min-width: 1284px){
 body{
